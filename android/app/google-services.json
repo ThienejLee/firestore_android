@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "854184480397",
+    "firebase_url": "https://authphone-1a859.firebaseio.com",
+    "project_id": "authphone-1a859",
+    "storage_bucket": "authphone-1a859.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854184480397:android:cc9a271a9b2db799d71cc4",
+        "android_client_info": {
+          "package_name": "com.example.firestore_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854184480397-au2vmmpm4df91gd5t4s4e2tna5vg35hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrE59xXY6zqhTsA24NQpQspPsaz6LBx0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854184480397-au2vmmpm4df91gd5t4s4e2tna5vg35hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
